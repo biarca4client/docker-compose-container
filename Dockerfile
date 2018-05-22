@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM gcr.io/cloud-builders/mvn
 
 ARG version=1.21.2
 
